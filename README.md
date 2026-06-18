@@ -10,15 +10,19 @@ Enterprise asset management solution for tracking devices, assignments, lifecycl
 
 🔗 [https://github.com/kemar2k/asset-management-portal](https://github.com/kemar2k/asset-management-portal)
 
+### AWS Cloud Infrastructure for Referral Database
+AWS Cloud Infrastructure to host a new secure database in YAML and imported using CloudFormation.
+[https://github.com/kemar2k/ReferralDB-CloudInfras]
+
 ### Virtual Migrations with VMware vCenter and ESXI
 Migrated physical servers into Virtual Servers hosted on VMWare
 
-🔗 [https://github.com/kemar2k/powershell-automation](https://github.com/kemar2k/vmware-data-center-and-replication)
+🔗 [https://github.com/kemar2k/vmware-data-center-and-replication]
 
 ### Endpoint Management
 Intune, ABM, Autopilot, and device compliance examples.
 
-🔗 [https://github.com/kemar2k/endpoint-management](https://github.com/kemar2k/intune-zero-touch-deployment)
+🔗 [https://github.com/kemar2k/intune-zero-touch-deployment]
 
 ### Referral Database for Legal Attorneys
 Non-profit Referral Application and Database for legal attorneys across the U.S.
